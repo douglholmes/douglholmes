@@ -8,6 +8,7 @@ Skills:  / REACT / JS / HTML / CSS
 - 🔭 I’m currently working on building viable projects 
 - 📫 How to reach me: dholmes426@outlook.com & [LinkedIn](https://www.linkedin.com/in/douglholmes/) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglholmes)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=douglholmes&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=douglholmes)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglholmes)](https://github.com/anuraghazra/github-readme-stats)
+ 
