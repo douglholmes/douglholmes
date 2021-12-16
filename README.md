@@ -4,5 +4,5 @@
 
 
 - 🔭 I’m currently working on building viable projects 
-- 📫 How to reach me: dholmes426@outlook.com & ([LinkedIn](https://www.linkedin.com/in/douglholmes/)) 
+- 📫 How to reach me: dholmes426@outlook.com & [LinkedIn](https://www.linkedin.com/in/douglholmes/) 
 
