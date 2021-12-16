@@ -2,8 +2,7 @@
 
 ### I'm Doug Holmes. I'm a recent graduate from Coding Dojo, I'm a programmer, and looking to develop my skills/collaborate on projects!
 
-
-Skills:  / REACT / JS / HTML / CSS
+Skills: PYTHON / DJANGO / HTML / CSS / SCSS / JS
 
 - 🔭 I’m currently working on building viable projects 
 - 📫 How to reach me: dholmes426@outlook.com & [LinkedIn](https://www.linkedin.com/in/douglholmes/) 
