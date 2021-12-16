@@ -1,4 +1,4 @@
-### Hi ya'll!👋
+### Hey!👋
 
 ### I'm Doug Holmes. I'm a recent graduate from Coding Dojo, I'm a programmer, and looking to develop my skills/collaborate on projects!
 
