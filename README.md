@@ -2,17 +2,18 @@
 
 ### I'm Doug Holmes. I'm a recent graduate from Coding Dojo, I'm a programmer, and looking to develop my skills/collaborate on projects!
 
+- 🔭 I’m currently working on building viable projects 
+- 📫 How to reach me: dholmes426@outlook.com & [LinkedIn](https://www.linkedin.com/in/douglholmes/) 
+
 What I'm currently coding with:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>](  ) PYTHON [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'>]( )HTML  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='40'>]( ) CSS
+[<img src='https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png' alt='python' height='40'>](  ) PYTHON [<img src='https://cdn-icons-png.flaticon.com/512/1216/1216733.png' alt='html5' height='40'>]( )HTML  [<img src='https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png' alt='css3' height='40'>]( ) CSS
 
 
 What I'm learning more of:
 
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='40'>]( ) JS 
+ [<img src='https://d2gdtie5ivbdow.cloudfront.net/media/images/javascript.png' alt='javascript' height='40'>]( ) JS   [<img src='https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png' alt='sass' height='40'>]( ) SASS
 
-- 🔭 I’m currently working on building viable projects 
-- 📫 How to reach me: dholmes426@outlook.com & [LinkedIn](https://www.linkedin.com/in/douglholmes/) 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=douglholmes&show_icons=true)  
 
