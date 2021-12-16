@@ -7,7 +7,7 @@
 
 What I'm currently coding with:
 
-[<img src='https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png' alt='python' height='40'>](  ) PYTHON  [<img src='https://static.djangoproject.com/img/logos/django-logo-negative.png' alt='django' height='40'>]( ) 
+[<img src='https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png' alt='python' height='40'>](  ) PYTHON 
  [<img src='https://cdn-icons-png.flaticon.com/512/1216/1216733.png' alt='html5' height='40'>]( )HTML  [<img src='https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png' alt='css3' height='40'>]( ) CSS
 
 
