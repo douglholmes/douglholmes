@@ -22,3 +22,9 @@ What I'm learning more of:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglholmes)](https://github.com/anuraghazra/github-readme-stats)
  
 <!-- ![banner](https://user-images.githubusercontent.com/78378906/146417281-d5138a4e-9830-4711-95cc-c1b4cbdd8ba8.png) -->
+
+
+
+
+
+<!-- add gifs of projects -->
