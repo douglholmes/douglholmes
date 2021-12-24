@@ -28,6 +28,3 @@ What I'm learning more of:
 
 
 <!-- add gifs of projects -->
-
-
-
