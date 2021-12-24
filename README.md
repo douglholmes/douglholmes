@@ -28,3 +28,5 @@ What I'm learning more of:
 
 
 <!-- add gifs of projects -->
+<!-- project1 -->
+<!-- project2 -->
