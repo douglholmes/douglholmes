@@ -4,7 +4,14 @@
 
 - 🔭 I’m currently working on building viable projects 
 - 📫 How to reach me: dholmes426@outlook.com & [LinkedIn](https://www.linkedin.com/in/douglholmes/) 
-- 👨‍💻 Current project: https://github.com/douglholmes/dojo_project
+- 👨‍💻 Finished projects:
+    
+    *Natours*
+    Live Demo: https://douglholmes.github.io/Natours_Project/
+    
+    -HTML, CSS, SASS
+
+<!-- https://github.com/douglholmes/dojo_project -->
 
 What I'm currently coding with:
 
