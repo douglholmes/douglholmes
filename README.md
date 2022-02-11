@@ -13,6 +13,8 @@
 
 <!-- https://github.com/douglholmes/dojo_project -->
 
+- Ongoing projects: https://github.com/douglholmes/Quote-Sharing-Website
+
 What I'm currently coding with:
 
 [<img src='https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png' alt='python' height='40'>](  ) PYTHON 
